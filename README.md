@@ -1,4 +1,4 @@
-# Hi I'm Eduardo Teranisi 👋
+## Hi I'm Eduardo Teranisi 👋
 <div align="center">
   <a href="https://github.com/kingtera">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kingtera&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
